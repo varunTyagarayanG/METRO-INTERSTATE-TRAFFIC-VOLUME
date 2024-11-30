@@ -161,14 +161,12 @@ Traffic starts to decline after 3 PM, with a steady decrease into the late eveni
 
 # plot a scatter plot of how the traffic is at a particular hour throughuout the week:
 
-1. 12am - 3am: the traffic volume is very less
-2. frmo 4am the traffic is slightly increasing but hte volume of traffic is not more hence not much congested
-3. from 5am to 7 am the traffic is steadily increasing as we can see from the scatter plot the volume is shifting towards up indicating the traffic is getting congested
-4. from 9 am to 12pm the traffic volume is high and the congested also due to office hours
-5. from 3pm the traffic colume is reducing but not significant enough
-6. from 4pm to 7pm the traffic is again high dues to disperse to the houses so the traffic volume is also high
-7. from 8pm the traffic colume again can be seen as decreasing the volume is reducing
-8. from 9pm the traffic is least again reducing back to again 12am
+1. 7 am the traffic is steadily increasing as we can see from the scatter plot the volume is shifting towards up indicating the traffic is getting congested
+2. from 9 am to 12pm the traffic volume is high and the congested also due to office hours
+3. from 3pm the traffic colume is reducing but not significant enough
+4. from 4pm to 7pm the traffic is again high dues to disperse to the houses so the traffic volume is also high
+5. from 8pm the traffic colume again can be seen as decreasing the volume is reducing
+6. from 9pm the traffic is least again reducing back to again 12am
 
 # holiday or not plot
 
