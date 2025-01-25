@@ -185,7 +185,7 @@ Finding the Correlation among the attribute of dtype==number gives us a heatmap 
 
    The red dashed line represents the perfect prediction line where predicted values exactly match actual values.
 
-   ![alt text](image-1.png)
+   ![alt text](images/image-1.png)
 
    Purpose of the Graph: This scatter plot is used to evaluate how well the Random Forest Regression model predicts the target variable (traffic volume). It provides a visual comparison between the actual values and the predicted values, highlighting the accuracy of the model.
 
@@ -202,7 +202,7 @@ Finding the Correlation among the attribute of dtype==number gives us a heatmap 
 
 2. Graph representation type: Residuals Plot
 
-   ![alt text](image-2.png)
+   ![alt text](images/image-2.png)
 
    Purpose: This plot displays the residuals (errors) of the model, i.e., the difference between actual traffic volume and predicted traffic volume. The residuals are plotted against the predicted values to assess the model’s performance.
 
@@ -214,7 +214,7 @@ Finding the Correlation among the attribute of dtype==number gives us a heatmap 
 
 3. Graph representation type: Residuals histogram
 
-   ![alt text](image-3.png)
+   ![alt text](images/image-3.png)
 
    Purpose: This histogram visualizes the distribution of residuals (the errors between predicted and actual traffic volumes) to check for normality.
 
@@ -226,7 +226,7 @@ Finding the Correlation among the attribute of dtype==number gives us a heatmap 
 
 4. Graph representatiom type: Precision-Recall Curve
 
-   ![alt text](image-4.png)
+   ![alt text](images/image-4.png)
 
    Purpose: The graph shows the model's trade-off between precision and recall, helping evaluate its performance, especially for imbalanced datasets.
 
@@ -242,7 +242,7 @@ Finding the Correlation among the attribute of dtype==number gives us a heatmap 
 
 5. Graph representatiom type: ROC curve
 
-![alt text](image-5.png)
+![alt text](images/image-5.png)
 
 Purpose: The ROC Curve demonstrates the model's ability to differentiate between classes by plotting the True Positive Rate (TPR) against the False Positive Rate (FPR)
 
@@ -258,7 +258,7 @@ Minimal Deviation from Ideal Performance: The curve stays close to the top-left 
 
 6. Graph representatiom type: Q-Q plot
 
-   ![alt text](image-6.png)
+   ![alt text](images/image-6.png)
 
    Purpose: The Q-Q plot compares the quantiles of the dataset with the quantiles of a theoretical distribution (typically normal) to assess how well the dataset matches that distribution.
 
